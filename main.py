@@ -17,3 +17,6 @@ if __name__ == '__main__':
 
 print ("Millena")
 
+954941
+4495
+8.5
